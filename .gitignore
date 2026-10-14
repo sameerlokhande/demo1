@@ -1,0 +1,10 @@
+# Python caches and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+.sandbox_venv/
+*.orig
+remediation.patch
